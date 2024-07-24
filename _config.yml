@@ -1,8 +1,8 @@
 # Setup
-title: Not Pure Poole
+title: Bianyuann
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+url: https://bianyuann.github.io
+avatar: /avatar.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: bianyuann
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: bianyuann
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/bianyuann
+    - https://github.com/bianyuann
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: bianyuann
+  url: https://github.com/bianyuann/
+  email: bianyuann@yeah.net
