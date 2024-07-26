@@ -1,9 +1,15 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://bianyuann@yeah.net
   icon: fas fa-envelope
 - title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+  url: https://x.com/bianyuann
+  icon: fab  fa-twitter
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/bianyuann
   icon: fab fa-github
+- title: Instagram
+  url: https://www.instagram.com/bianyuann/
+  icon: fab fa-instagram
+#- title: facebook
+#  url: https://www.facebook.com/profile.php?id=100051818619982
+#  icon: fab fa-facebook
